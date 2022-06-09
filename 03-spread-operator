@@ -46,6 +46,6 @@ window.onload = () => {
 //     pero sin editar el array inicial. De nuevo, usando spread operatos.
     
 
-const colors = ['rojo', 'azul', 'amarillo', 'verde', 'naranja'];
+const colors = ['rojo', 'azul', 'amarillo', 'verde'];
 };
 
