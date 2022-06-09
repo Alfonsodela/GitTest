@@ -41,6 +41,7 @@ const mutations = [
 
 const res = aliens.find(item => {
 	return item.name === 'Cucushumushu'
+	return item.name === 'Porompompero'
 })
 console.log(res)
 
