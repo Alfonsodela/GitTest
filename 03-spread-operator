@@ -47,6 +47,5 @@ window.onload = () => {
     
 
 const colors = ['rojo', 'azul', 'amarillo', 'verde', 'naranja'];
-
 };
 
